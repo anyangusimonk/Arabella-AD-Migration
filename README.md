@@ -7,7 +7,7 @@ legacy systems, something that worked well enough at the start but has become in
 as AI-driven efficiency and evolving cybersecurity threats continue to raise the stakes for businesses that haven't
 modernized their foundations. 
 I was brought in to lay the groundwork for Arabella's infrastructure shift. The first step was moving their day-to-day 
-operations from an unmonitored, decentralized workgroup environment to a centralized domain management system — giving 
+operations from an unmonitored, decentralized workgroup environment to a centralized domain management system, giving 
 the organization a single point of authority over user access, security policy, and operational visibility. 
 I designed and executed a full Active Directory Domain Services migration, the kind that happens in real companies when 
 they outgrow their initial setup and need proper IT infrastructure underneath them to operate securely and at scale. 
