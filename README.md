@@ -1,6 +1,6 @@
 # Arabella Inc. — Active Directory Migration Lab
 
-## Streamlining Oerational Eficiency at Arabella Inc.
+## Streamlining Operational Efficiency at Arabella Inc.
 
 Arabella Inc. is a Small to Medium Enterprise (SME) in the microfinance sector that built its operations on 
 legacy systems, something that worked well enough at the start but has become increasingly difficult to defend
